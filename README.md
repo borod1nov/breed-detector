@@ -4,7 +4,7 @@
 *WPF приложение для распознавания 37 пород кошек и собак на основе модели YOLOv8m*\
 Модель YOLO и скрипты тренировки и экспорта: [Ultralytics](https://github.com/ultralytics/ultralytics)\
 Датасет, используемый для тренировки модели: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)\
-Nuget пакет для использования onnx в С# и рисования рамок на картинках: [Yolov8](https://www.nuget.org/packages/YoloV8/1.5.0)
+Nuget пакет для использования onnx в С# и рисования рамок на картинках: [Yolov8](https://www.nuget.org/packages/YoloV8/1.5.0)\
 Полный список поддерживаемых пород:\
 Собаки:
 1) American bulldog	
