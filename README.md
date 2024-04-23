@@ -1,8 +1,9 @@
+
+![Пример работы](https://raw.githubusercontent.com/borod1nov/breed-detector/1ccfdf6be335b1cb252a598cf89e6f97771bf58a/saint_bernard_example.jpg)
 # О проекте
 *Программа распознает 37 пород кошек и собак*\
-![Пример работы](https://raw.githubusercontent.com/borod1nov/breed-detector/1ccfdf6be335b1cb252a598cf89e6f97771bf58a/saint_bernard_example.jpg)
-Полный список поддерживаемых пород:\
-Собаки:\
+Полный список поддерживаемых пород:
+Собаки:
 1) American bulldog	
 2) American pitbull terrier	
 3) Basset hound	
@@ -27,9 +28,9 @@
 22) Shiba inu
 23) Staffordshire bull terrier
 24) Wheaten terrier
-25) Yorkshire terrier\
+25) Yorkshire terrier
 
-Кошки:\
+Кошки:
 1) Abyssinian
 2) Bengal
 3) Birman
