@@ -2,7 +2,9 @@
 ![Пример работы](https://raw.githubusercontent.com/borod1nov/breed-detector/1ccfdf6be335b1cb252a598cf89e6f97771bf58a/saint_bernard_example.jpg)
 # О проекте
 *WPF приложение для распознавания 37 пород кошек и собак на основе модели YOLOv8m*\
+Модель YOLO и скрипты тренировки и экспорта: [Ultralytics](https://github.com/ultralytics/ultralytics)\
 Датасет, используемый для тренировки модели: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)\
+Nuget пакет для использования onnx в С# и рисования рамок на картинках: [Yolov8](https://www.nuget.org/packages/YoloV8/1.5.0)
 Полный список поддерживаемых пород:\
 Собаки:
 1) American bulldog	
