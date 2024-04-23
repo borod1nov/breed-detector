@@ -1,7 +1,8 @@
 
 ![Пример работы](https://raw.githubusercontent.com/borod1nov/breed-detector/1ccfdf6be335b1cb252a598cf89e6f97771bf58a/saint_bernard_example.jpg)
 # О проекте
-*Программа распознает 37 пород кошек и собак*\
+*WPF приложение для распознавания 37 пород кошек и собак на основе модели YOLOv8m*\
+Датасет, используемый для тренировки модели: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)\
 Полный список поддерживаемых пород:\
 Собаки:
 1) American bulldog	
@@ -47,7 +48,7 @@
 # Инструкция по сборке и использованию проекта
 1. *Получить файл best.onnx*\
     1a. Файл можно сгенерировать с помощью [этого ноутбука](https://colab.research.google.com/drive/1SbCXfn1cGPilERDw0BXaEL_GNPP8T6wC?usp=sharing) в GPU среде Google Colab.\
-    1b. Также можно [скачать](https://drive.google.com/uc?export=download&id=1AKeDjjEnoVFXkYOUDhPu-JxF_CbydGka) готовый onnx файл.\
+    1b. Также можно [скачать](https://drive.google.com/uc?export=download&id=1AKeDjjEnoVFXkYOUDhPu-JxF_CbydGka) готовый onnx файл.
 2. *Склонировать этот репозиторий*
 3. *Положить файл best.onnx в папку breed-detector/bin/Debug/net8.0-windows склонированного репозитория*
 4. *Открыть в Visual Studio файл BreedDetector.sln*
